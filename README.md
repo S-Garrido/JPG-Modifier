@@ -1,1 +1,1 @@
-# jpg-Modifier
+# Jpg-Modifier
