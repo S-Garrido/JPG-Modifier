@@ -17,4 +17,3 @@ This is a tool that modifies JPG images using various filters that I made for my
   - stretched()
   - mirrorIt()
   - makeDoubleWithMirror()
-  - 
