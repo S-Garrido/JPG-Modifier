@@ -118,7 +118,7 @@ public class PhotoTools {
 	
 	
 	public static Photograph gradientFilter(Photograph photo) {
-		throw new RuntimeException("You'll implement this...");
+		throw new RuntimeException("Do NOT implement this...");
 	}
 
 
@@ -269,27 +269,22 @@ public class PhotoTools {
 	}
 
 
-
-	//Challenges down here.
-
 	public static Photograph rotated(Photograph photo) {
-		throw new RuntimeException("You might implement this...");
+		throw new RuntimeException("Do NOT implement this...");
 	}
 
 	public static Photograph upsideDown(Photograph photo) {
-		throw new RuntimeException("You might implement this...");
+		throw new RuntimeException("Do NOT implement this...");
 
-		//DON'T FORGET - THIS ONE SHOULD BE ONE LINE OF CODE!
-		//  THIS CHALLENGE INVOLVES MORE THINKING THAN CODING!
 	}
 	
 	
 	
 
 	public static Photograph wacky(Photograph photo) {
-		throw new RuntimeException("You might implement this...");
+		throw new RuntimeException("Do NOT implement this...");
 
-		//This one is just a place for you to explore ideas if you want to...
+		
 	}
 
 
